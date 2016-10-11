@@ -7,7 +7,7 @@ The presentation is included as emtadata in the notebook, in order to view it in
 
  Reveal.js - Jupyter/IPython Slideshow Extension, also known as live_reveal by typing
 
-conda install -c damianavila82 rise
+**conda install -c damianavila82 rise**
 
 
-If you do not want to get weird bug in the plotly 3D charts click on file-->trust notebook in the jupyter notebook menu toolbar.
+If you do not want to get a weird bug in the plotly 3D charts click on ***file-->trust notebook*** in the jupyter notebook menu toolbar.
